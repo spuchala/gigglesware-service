@@ -1,0 +1,22 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: "ALWAYS"
+
+spring:
+  hateoas:
+    communicationtimeout: 60000
+    use-hal-as-default-json-media-type: false
+  jpa:
+    show-sql: true
+  flyway:
+    placeholders:
+      envSchema: GigglesWare
+    baseline-on-migrate: true
+graphql:
+  servlet:
+    mapping: /graphql

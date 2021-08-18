@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="repo-gecwalmart" />
+      <option name="name" value="Walmart GeC Release Repo Collection" />
+      <option name="url" value="https://repository.walmart.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshot" />
+      <option name="name" value="nexus-snapshot" />
+      <option name="url" value="http://repo.wal-mart.com/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_snapshot" />
+      <option name="name" value="nexus_snapshot" />
+      <option name="url" value="https://repository.walmart.com/content/groups/public_snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repository.walmart.com/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="thirdparty-repo" />
+      <option name="name" value="Nexus 3rd party Repository" />
+      <option name="url" value="https://repository.walmart.com/content/groups/walmart_release_repos/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_plugin_release" />
+      <option name="name" value="nexus public release" />
+      <option name="url" value="https://repository.walmart.com/content/repositories/isd_release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="proximity" />
+      <option name="name" value="proximity" />
+      <option name="url" value="https://repository.walmart.com/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="internal-repository" />
+      <option name="name" value="Nexus Walmart Repository" />
+      <option name="url" value="http://repo.wal-mart.com/content/repositories/walmart" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="thirdparty-gec" />
+      <option name="name" value="gec 3rd party Repository" />
+      <option name="url" value="https://repository.walmart.com/content/repositories/central/" />
+    </remote-repository>
+  </component>
+</project>
